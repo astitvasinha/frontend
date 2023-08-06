@@ -13,8 +13,7 @@ const FileImport = (props) => {
         <h5>Easy storage of XLX and XLSX files in your database</h5>
       </div>
       <div style={{ display: 'flex', flexDirection: 'row' }}>
-        <Link to='/ParseExcel' class="btn btn-primary" style={{ display: 'flex', width: '250px', height: '50px', flexDirection: 'column', justifyContent: 'center', marginTop: '100px', marginLeft: '300px' }}>Select Excel Files</Link>
-        <Link to='/ParseExcel' class="btn btn-primary" style={{ display: 'flex', width: '250px', height: '50px', flexDirection: 'column', justifyContent: 'center', marginTop: '100px', marginLeft: '200px' }}>Enter Data Manually</Link>
+        <Link to='/Excel' class="btn btn-primary" style={{ display: 'flex', width: '250px', height: '50px', flexDirection: 'column', justifyContent: 'center', marginTop: '100px', marginLeft: '500px' }}>Select Excel Files</Link>
       </div>
 
 
